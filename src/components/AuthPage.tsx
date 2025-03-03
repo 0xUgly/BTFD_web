@@ -45,7 +45,7 @@ const GameSelectionUI : React.FC<GameSelectionUIProps> = ({ isLoading, selectedG
         </div>
         <div className='w-full flex items-center justify-center mt-3'>
         <div className='w-[312px] '>
-          <h1 className='font-bold font-zk text-[20px] text-[#FF0420]'>Crashy Chase</h1>
+          <h1 className='font-bold font-zk text-[20px] text-[#FF0420]'>BTFD Survival</h1>
           <div className='font-medium text-[12px] font-zk'>About : In this thrilling 3D game, players control a car speeding through a plain landscape, pursued by relentless enemy vehicles. The challenge intensifies as players must skillfully dodge oncoming cars, swerve around trees, and stay alert for sudden bombs dropped from the sky.</div>
         </div>
         </div>
