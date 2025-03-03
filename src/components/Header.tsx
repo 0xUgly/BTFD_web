@@ -18,7 +18,7 @@ function Header() {
     <main className='bg-black'>
     <div className="flex justify-center p-4 py-8 bg-black gap-5 items-center border-b-2  w-[80%] mx-auto">
        <div className="flex items-center gap-2">
-              <Image
+              {/* <Image
               src='/logos/RL.png'
               alt=''
               height={23}
@@ -39,7 +39,7 @@ function Header() {
               alt=''
               height={20}
               width={33}
-              />
+              /> */}
             </div>
           </div>
           </main>
